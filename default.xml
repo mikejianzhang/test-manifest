@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="test"
+           fetch="ssh://192.168.0.110:22/tfs/MikeCollection/RD_PC/_git/" />
+
+  <default revision="dev"
+           remote="test"
+           sync-j="1" />
+
+  <project path="test-repo1" name="test-repo1" groups="default" />
+  <project path="test-repo2" name="test-repo2" groups="default" />
+  <project path="test-repo3" name="test-repo3" groups="default" />
+</manifest>
