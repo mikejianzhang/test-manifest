@@ -3,7 +3,7 @@
   <remote  name="test"
            fetch="ssh://mike-win10-1:22/tfs/MikeCollection/RD_PC/_git/" />
 
-  <default revision="dev"
+  <default revision="master"
            remote="test"
            sync-j="1" />
 
