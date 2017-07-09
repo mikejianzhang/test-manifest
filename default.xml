@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
   <remote  name="test"
-           fetch="ssh://192.168.0.110:22/tfs/MikeCollection/RD_PC/_git/" />
+           fetch="ssh://mike-win10-1:22/tfs/MikeCollection/RD_PC/_git/" />
 
   <default revision="dev"
            remote="test"
