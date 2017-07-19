@@ -1,18 +1,27 @@
 {
     "product": "test",
-    "version": "1.0.0",
-    "buildNumber": "88",
+    "version": "0.0.1",
+    "buildNumber": "22",
+    "storage": {
+        "groupId": "com.free.freedivision.test",
+        "artifactId": "test",
+        "packaging": "json",
+        "version": "0.0.1_b22",
+        "classifier": "full"
+    },
     "repos": [
         {
             "repoName": "test-repo1",
-            "componets": [
+            "commit":"c59cbd0dde46f050a186a3c68c9c5de9e2bcd61e",
+            "author":"mikejianzhang@163.com",
+            "components": [
                 {
                     "name": "test-repo1",
                     "storage": {
-                        "groupId": "com.philips.cdi.test",
+                        "groupId": "com.free.freedivision.test",
                         "artifactId": "test-repo1",
                         "packaging": "jar",
-                        "version": "None",
+                        "version": "0.0.1_b22",
                         "classifier": "N/A"
                     },
                     "packageLayout": "None"
@@ -21,14 +30,16 @@
         },
         {
             "repoName": "test-repo2",
-            "componets": [
+            "commit":"6914795ccb36ba7fcddd0eb1e67a8ce3617613a4",
+            "author":"mikejianzhang@163.com",
+            "components": [
                 {
                     "name": "test-repo2",
                     "storage": {
-                        "groupId": "com.philips.cdi.test",
+                        "groupId": "com.free.freedivision.test",
                         "artifactId": "test-repo2",
                         "packaging": "jar",
-                        "version": "None",
+                        "version": "0.0.1_b22",
                         "classifier": "N/A"
                     },
                     "packageLayout": "None"
@@ -37,14 +48,16 @@
         },
         {
             "repoName": "test-repo3",
-            "componets": [
+            "commit":"6914795ccb36ba7fcddd0eb1e67a8ce3617613a4",
+            "author":"mikejianzhang@163.com",
+            "components": [
                 {
                     "name": "test-repo3",
                     "storage": {
-                        "groupId": "com.philips.cdi.test",
+                        "groupId": "com.free.freedivision.test",
                         "artifactId": "test-repo3",
                         "packaging": "jar",
-                        "version": "None",
+                        "version": "0.0.1_b22",
                         "classifier": "N/A"
                     },
                     "packageLayout": "None"
