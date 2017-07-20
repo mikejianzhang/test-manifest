@@ -1,12 +1,12 @@
 {
     "product": "test",
-    "version": "0.0.1",
-    "buildNumber": "66",
+    "version": "1.0.0",
+    "buildNumber": "12",
     "storage": {
         "groupId": "com.free.freedivision.test",
         "artifactId": "test",
         "packaging": "json",
-        "version": "0.0.1_b66",
+        "version": "1.0.0_b12",
         "classifier": "full"
     },
     "repos": [
@@ -21,7 +21,7 @@
                         "groupId": "com.free.freedivision.test",
                         "artifactId": "test-repo1",
                         "packaging": "jar",
-                        "version": "0.0.1_b66",
+                        "version": "1.0.0_b12",
                         "classifier": "N/A"
                     },
                     "packageLayout": "None"
